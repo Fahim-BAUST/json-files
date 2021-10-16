@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "HTML",
+    "codeImg": "./images/html.png",
+    "price": 20,
+    "description": "HTML is the standard markup language for Web pages.With HTML you can create your own Website.",
+    "shortDescription": "The language for building web pages",
+    "popularity": 100,
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "name": "CSS",
+    "codeImg": "./images/css.png",
+    "price": 25,
+    "description": "CSS is the language we use to style an HTML document.CSS describes how HTML elements should be displayed.This tutorial will teach you CSS from basic to advanced",
+    "shortDescription": "The language for styling web pages",
+    "rating": 4
+  },
+  {
+    "id": 3,
+    "name": "JavaScript",
+    "codeImg": "./images/js.png",
+    "price": 40,
+    "description": "JavaScript is the worlds most popular programming language.JavaScript is the programming language of the Web.JavaScript is easy to learn",
+    "shortDescription": "The language for programming web pages",
+    "rating": 5
+  },
+  {
+    "id": 4,
+    "name": "PYTHON",
+    "codeImg": "./images/py.png",
+    "price": 50,
+    "description": "Python is a popular programming language.Python can be used on a server to create web applications.",
+    "shortDescription": "A popular programming language",
+    "rating": 4.5
+  },
+  {
+    "id": 5,
+    "name": "SQL",
+    "codeImg": "./images/sql.png",
+    "price": 0,
+    "description": "Our SQL tutorial will teach you how to use SQL in: MySQL, SQL Server, MS Access, Oracle, Sybase, Informix, Postgres, and other database systems",
+    "shortDescription": "A language for accessing databases",
+    "rating": 4
+  },
+  {
+    "id": 6,
+    "name": "Bootstrap",
+    "codeImg": "./images/bts.png",
+    "price": 0,
+    "description": "Bootstrap is the most popular HTML, CSS, and JavaScript framework for developing responsive, mobile-first websites.",
+    "shortDescription": "A CSS framework for designing better web pages",
+    "rating": 4.5
+  },
+  {
+    "id": 7,
+    "name": "React",
+    "codeImg": "./images/react.png",
+    "price": 70,
+    "description": "React is used to build single-page applications.React allows us to create reusable UI components.",
+    "shortDescription": "React is a JavaScript library for building user interfaces.",
+    "rating": 5
+  },
+  {
+    "id": 8,
+    "name": "jQuery",
+    "codeImg": "./images/jq.png",
+    "price": 0,
+    "description": "jQuery is a JavaScript Library.jQuery greatly simplifies JavaScript programming.jQuery is easy to learn..",
+    "shortDescription": "A JS library for developing web pages.",
+    "rating": 4.5
+  },
+  {
+    "id": 9,
+    "name": "C++",
+    "codeImg": "./images/c++.png",
+    "price": 45,
+    "description": "C++ is an object-oriented programming language which gives a clear structure to programs and allows code to be reused, lowering development costs",
+    "shortDescription": "C++ is a popular programming language",
+    "rating": 5
+  },
+  {
+    "id": 10,
+    "name": "Node.js",
+    "codeImg": "./images/ns.png",
+    "price": 0,
+    "description": "Node.js runs single-threaded, non-blocking, asynchronously programming, which is very memory efficient",
+    "shortDescription": "Node.js allows you to run JavaScript on the server",
+    "rating": 4.5
+  },
+  {
+    "id": 11,
+    "name": "NumPy",
+    "codeImg": "./images/np.png",
+    "price": 0,
+    "description": "NumPy is a Python library used for working with arrays.It also has functions for working in domain of linear algebra, fourier transform, and matrices",
+    "shortDescription": "NumPy is a Python library",
+    "rating": 5
+  }
+]
