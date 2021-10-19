@@ -54,44 +54,50 @@
   "doctors": [
     {
       "id": 1,
-      "name": "Dr. Albert",
-      "img": "https://image.freepik.com/free-photo/young-handsome-physician-medical-robe-with-stethoscope_1303-17817.jpg",
-      "designation": "Cardiologist"
+      "name": "Dr. Sarah Johnson",
+      "img": "https://template85178.motopreview.com/mt-demo/85100/85178/mt-content/uploads/2019/08/mt-1877-home-med-8.jpg",
+      "designation": "Consulting Doctor"
     },
     {
       "id": 2,
-      "name": "Dr. Palse",
-      "img": "https://image.freepik.com/free-photo/stomatologist-doctor-explaining-proper-dental-hygiene-patient-holding-sample-human-jaw_158595-7678.jpg",
-      "designation": "Dentist"
+      "name": "Dr. Greg House",
+      "img": "https://template85178.motopreview.com/mt-demo/85100/85178/mt-content/uploads/2019/08/mt-1877-home-med-5.jpg",
+      "designation": "Cardiac Surgeon"
     },
     {
       "id": 3,
-      "name": "Dr. Hanli",
-      "img": "https://image.freepik.com/free-photo/doctor-giving-cosmetic-treatment-female-patient_107420-65216.jpg",
-      "designation": "Dermatologist"
+      "name": "Dr. Marta Stewart",
+      "img": "https://template85178.motopreview.com/mt-demo/85100/85178/mt-content/uploads/2019/08/mt-1877-home-med-3.jpg",
+      "designation": "Pediatrician"
     },
     {
       "id": 4,
-      "name": "Dr. Pams",
-      "img": "https://image.freepik.com/free-photo/doctor-is-holding-wooden-model-liver-pills-healthcare-early-diagnostic-concept_253401-5212.jpg",
-      "designation": "Gastroenterologist"
+      "name": "Dr. Marco Rossi",
+      "img": "https://template85178.motopreview.com/mt-demo/85100/85178/mt-content/uploads/2019/08/mt-1877-home-med-6.jpg",
+      "designation": "Laboratory assistant"
     },
     {
       "id": 5,
-      "name": "dr. Sophia",
-      "img": "https://image.freepik.com/free-photo/female-gynecologist-checking-pregnant-womans-tummy_7502-8814.jpg",
-      "designation": "Gynecologist"
+      "name": "Dr. Jensen Ross",
+      "img": "https://template85178.motopreview.com/mt-demo/85100/85178/mt-content/uploads/2019/08/mt-1877-home-med-7.jpg",
+      "designation": "Consulting Doctor"
     },
     {
       "id": 6,
-      "name": "Dr. Gayle",
-      "img": "https://image.freepik.com/free-photo/neurologist-doctor-analysing-brain-man-nervous-system-using-brainwave-scanning-headset-researcher-using-high-tech-developing-neurological-innovation-monitoring-side-effects-monitor-screen_482257-13118.jpg",
-      "designation": "Neurologist"
+      "name": "Dr. William Bradley",
+      "img": "https://template85178.motopreview.com/mt-demo/85100/85178/mt-content/uploads/2019/08/mt-1877-home-med-2.jpg",
+      "designation": "Cardiac Surgeon"
     },
     {
       "id": 7,
-      "name": "Dr. Jampa",
-      "img": "https://img.freepik.com/free-photo/portrait-young-smiling-female-nutritionist-consultation-room-nutritionist-desk-with-healthy-fruit-juice-measuring-tape-dietitian-working-diet-plan_1212-3684.jpg?size=338&ext=jpg",
+      "name": "Dr. David Boreanaz",
+      "img": "https://template85178.motopreview.com/mt-demo/85100/85178/mt-content/uploads/2019/08/mt-1877-home-med-4.jpg",
+      "designation": "Pediatrician"
+    },
+   {
+      "id": 8,
+      "name": "Dr. Nina Dobrev",
+      "img": "https://template85178.motopreview.com/mt-demo/85100/85178/mt-content/uploads/2019/08/mt-1877-home-med-8.jpg",
       "designation": "Nutritionist"
     }
   ],
