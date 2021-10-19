@@ -1,0 +1,115 @@
+ {
+  "institutionName": "CareforYou Clinic",
+  "services": [
+    {
+      "id": 1,
+      "name": "Cardiology",
+      "img": "https://cdn-prod.medicalnewstoday.com/content/images/articles/248/248935/cardiology-cath-lab.jpg",
+      "description": "Cardiology is the study and treatment of disorders of the heart and the blood vessels. A person with heart disease or cardiovascular disease may be referred to a cardiologist.Cardiology is a branch of internal medicine. A cardiologist is not the same as a cardiac surgeon. A cardiac surgeon opens the chest and performs heart surgery.A cardiologist specializes in diagnosing and treating diseases of the cardiovascular system. The cardiologist will carry out tests, and they may perform some procedures, such as heart catheterizations, angioplasty, or inserting a pacemaker.",
+      "need": "If a person has symptoms of a heart condition, their physician may refer them to a cardiologist.Symptoms that can indicate a heart problem include:shortness of breath,dizziness,chest pains,changes in heart rate or rhythm,high blood pressure"
+    },
+    {
+      "id": 2,
+      "name": "dentist",
+      "img": "https://image.freepik.com/free-photo/beautiful-girl-sitting-dentist-s-office_1157-21014.jpg",
+      "description": "Dentists are doctors of oral health. Typically, dentists go to college for a pre-dentistry or pre-medical degree before going on to a graduate school of dentistry.Like all doctors, dentists are required to be extensively trained in their practice before becoming certified. About 80 percent of dentists practice what’s known as general dentistry.Certified dentists can diagnose and treat oral health conditions of your teeth, gums, tongue, and mouth. They’re also able to clean your teeth, but dental hygienists usually take care of that.Dentists provide the following care: conduct and interpret dental X-rays, fill cavities, extract teeth, repair cracked teeth, promote oral health and oral hygiene, fill and bond teeth, treat gum disease, such as gingivitis etc",
+      "need": "ooth pain, tooth decay, tooth repair, and tooth extraction can all be diagnosed and treated by your dentist. They can also treat gum disease, oral inflammation, and oral infections.There may be cases when a dentist refers you to an orthodontist. Jaw malocclusion, tooth crowding, and palate expansion may all require the input of an orthodontist."
+    },
+    {
+      "id": 3,
+      "name": "Dermatology",
+      "img": "https://post.healthline.com/wp-content/uploads/2020/06/dermatologist-skin-doctor-1296x728-header.jpg",
+      "description": "Dermatology is a special area of medicine that focuses on conditions that affect your skin. In addition to your skin, dermatology also includes conditions that affect your nails, hair, and the delicate lining of your eyelids, nose, and mouth.Your skin is your body’s largest organ. It contains nerve endings, sweat glands, hair follicles, pores, blood vessels, and many other structures. Caring for it is important to your overall health.While general practitioners and internal medicine doctors may be able to diagnose and treat these same conditions, a dermatologist has a deeper understanding and greater experience. In fact, many primary care doctors will refer their patients to dermatologists for specialized care.",
+      "need": "Dermatologists can treat thousands of conditions that affect your skin, hair, or nails. A few of the most common conditions they treat include:- 1. Acne : Based on the severity of your acne, a dermatologist can treat this condition with topical treatments, medication, lasers, or other light therapies, chemical peels, or by removing large cysts. 2. Skin cancer : Skin cancer can occur anywhere on your body. A dermatologist can remove cancer cells and monitor you to make sure it doesn’t return. 3. Dermatitis : Dermatitis encompasses several types of skin conditions that cause inflammation and irritation. This may include eczema, cradle cap, and allergic reactions. 4. Infections : Viruses, bacteria, fungi, and parasites can all find their way into your skin and cause a variety of skin infections. A dermatologist can help diagnose the cause of infections and prescribe treatment."
+    },
+    {
+      "id": 4,
+      "name": "Gastroenterology",
+      "img": "https://www.rxdx.in/wp-content/uploads/2018/12/Gastroenterology-1.jpg",
+      "description": "Gastroenterology is an area of medicine that focuses on the health of the digestive system, or the gastrointestinal (GI) tract. Gastroenterologists can treat everything from irritable bowel syndrome (IBS) to hepatitis C. Here’s a look at what these specialists do and when you should consider seeing one These specialists primarily diagnose and treat GI diseases in both men and women.They perform endoscopic procedures, in which they use specialized instruments to view the GI tract and make a diagnosis. They don’t perform surgery. In some cases, they may work closely with a GI surgeon. They primarily work in clinic or hospital settings.The GI system: digests and moves food , absorbs nutrients, removes waste from your body . Gastroenterologists can treat any part of this system. Although the GI system includes the mouth, these specialists generally don’t provide care or services here. Instead, dentists and dental specialists focus on the health of the oral cavity. Other parts of the GI system include the: pharynx, esophagus, stomach, small intestine, large intestine ,liver ,gallbladder ,pancreas ,salivary glands ,tongue ,epiglottis, rectum, anus",
+      "need": "Your primary care doctor may refer you to this specialist if you: have unexplained blood in your stool, have unexplained difficulty swallowing, are experiencing abdominal pain. If you’re over the age of 50, you may also want to meet with a gastroenterologist for preventive care. Men and women over the age of 50 have an increased risk for colon cancer."
+    },
+    {
+      "id": 5,
+      "name": "Gynecology",
+      "img": "https://www.leading-medicine-guide.com/image/104284/gynaekologische-onkologie.jpg",
+      "description": "Gynecology is the branch of medicine that focuses on women’s bodies and their reproductive health. It includes the diagnosis, treatment, and care of women’s reproductive system.This includes the: vagina , uterus, ovaries ,fallopian tubes . This branch of medicine also includes screening for and treating issues associated with women’s breasts. Gynecology is the overarching field of women’s health from puberty through adulthood. It represents most of the reproductive care you’ll receive during your lifetime. If you become pregnant, you’ll need to go to an obstetrician.pproximately 90 percent of OB-GYNs are generalists. This means they work across a wide range of OB-GYN services. Some choose to specialize in one or more different subspecialties.",
+      "need": "OB-GYNs evaluate and treat a wide variety of conditions. What you see them for may depend on your age, health, and reproductive goals. You may see an OB-GYN about: abnormal bleeding, pelvic pain, genital itching, urinary incontinence,urinary tract or vaginal infections, endometriosis, breast disorders. The best way to treat health and medical issues is with preventive care. Women who are healthy and aren’t experiencing any reproductive health issues should get a preventive checkup once per year.During this visit, your doctor may conduct evaluations, immunizations, or lab tests for certain diseases. Your age group generally helps your doctor determine which tests to order. Your doctor will also perform a pelvic exam. Depending on your age and health, your doctor may request additional tests or screenings."
+    },
+    {
+      "id": 6,
+      "name": "Neurologist",
+      "img": "https://www.thecenteroregon.com/wp-content/uploads/2017/09/neurosurgeon-neurologist.jpg",
+      "description": "A neurologist is a medical doctor who specializes in treating diseases of the nervous system. The nervous system is made of two parts: the central and peripheral nervous system. It includes the brain and spinal cord.Neurologists manage and treat neurological conditions, or problems with the nervous system. Symptoms that commonly require a neurologist include: coordination problems, muscle weakness, a change in sensation, confusion, dizziness. People who are having problems with their senses, such as touch, vision, or smell, may also need to see a neurologist. Problems with senses are sometimes caused by nervous system disorders.",
+      "need": "During your first appointment with a neurologist, they’ll likely perform a physical exam and a neurological exam. A neurological exam will test muscle strength, reflexes, and coordination.Since different disorders can have similar symptoms, your neurologist may need more testing to make a diagnosis.Neurologists may recommend a variety of procedures to help diagnose or treat a condition."
+    },
+    {
+      "id": 7,
+      "name": "Nutrition",
+      "img": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201908/stockvault-diet-nutrition-illu.jpeg?9IUFJnQHnOVuDO1DrpcCZaFuhNwI4N9b&size=770:433",
+      "description": "In some countries, people may translate their title as “nutritionist” rather than “dietitian,” though their educational background closely resembles that of a dietitian.In the United States, the title “nutritionist” may encompass individuals with a broad range of credentials and training in nutrition.In over a dozen states, certain qualifications must be met before an individual can call themselves a nutritionist. Additionally, accredited certifications grant titles like Certified Nutrition Specialist (CNS) (8).In most states, those who receive these certifications have the authority to practice medical nutrition therapy and other aspects of nutrition care.In many states, such as Alaska, Florida, Illinois, Maryland, Massachusetts, and Pennsylvania, RDs and CNSs are granted the same state license, usually called a Licensed Dietitian Nutritionist (LDN) license.In states that don’t regulate the use of this term, anyone with an interest in diet or nutrition may call themselves a nutritionist. These individuals may apply their interest in nutrition to anything from running a food blog to working with clients.",
+      "need": "Most people do not have to see a nutritionist. There are certain health conditions – diabetes, lipid disorder, triglyceride disorders – that can require regular check-ins, but more often, seeing a nutritionist coincides with recognizing or wanting diet-based change in your life."
+    }
+  ],
+  "doctors": [
+    {
+      "id": 1,
+      "name": "Dr. Albert",
+      "img": "https://image.freepik.com/free-photo/young-handsome-physician-medical-robe-with-stethoscope_1303-17817.jpg",
+      "designation": "Cardiologist"
+    },
+    {
+      "id": 2,
+      "name": "Dr. Palse",
+      "img": "https://image.freepik.com/free-photo/stomatologist-doctor-explaining-proper-dental-hygiene-patient-holding-sample-human-jaw_158595-7678.jpg",
+      "designation": "Dentist"
+    },
+    {
+      "id": 3,
+      "name": "Dr. Hanli",
+      "img": "https://image.freepik.com/free-photo/doctor-giving-cosmetic-treatment-female-patient_107420-65216.jpg",
+      "designation": "Dermatologist"
+    },
+    {
+      "id": 4,
+      "name": "Dr. Pams",
+      "img": "https://image.freepik.com/free-photo/doctor-is-holding-wooden-model-liver-pills-healthcare-early-diagnostic-concept_253401-5212.jpg",
+      "designation": "Gastroenterologist"
+    },
+    {
+      "id": 5,
+      "name": "dr. Sophia",
+      "img": "https://image.freepik.com/free-photo/female-gynecologist-checking-pregnant-womans-tummy_7502-8814.jpg",
+      "designation": "Gynecologist"
+    },
+    {
+      "id": 6,
+      "name": "Dr. Gayle",
+      "img": "https://image.freepik.com/free-photo/neurologist-doctor-analysing-brain-man-nervous-system-using-brainwave-scanning-headset-researcher-using-high-tech-developing-neurological-innovation-monitoring-side-effects-monitor-screen_482257-13118.jpg",
+      "designation": "Neurologist"
+    },
+    {
+      "id": 7,
+      "name": "Dr. Jampa",
+      "img": "https://img.freepik.com/free-photo/portrait-young-smiling-female-nutritionist-consultation-room-nutritionist-desk-with-healthy-fruit-juice-measuring-tape-dietitian-working-diet-plan_1212-3684.jpg?size=338&ext=jpg",
+      "designation": "Nutritionist"
+    }
+  ],
+  "ourTeam": [
+    {
+      "id": 1,
+      "name": "Suvman Gill",
+      "img": "https://image.freepik.com/free-photo/waist-up-portrait-handsome-serious-unshaven-male-keeps-hands-together-dressed-dark-blue-shirt-has-talk-with-interlocutor-stands-against-white-wall-self-confident-man-freelancer_273609-16320.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Mayank Agarwal",
+      "img": "https://image.freepik.com/free-photo/portrait-joyful-young-man-white-shirt_171337-17467.jpg"
+    },
+    {
+      "id": 3,
+      "name": "MS Dhoni",
+      "img": "https://image.freepik.com/free-photo/mand-holding-cup_1258-340.jpg"
+    }
+  ]
+}
