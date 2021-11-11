@@ -5,6 +5,7 @@
         "category": "sony",
         "details": "24.3-megapixel APS-C image sensor=BIONZ X image processing engine=One-touch remote and sharing =High-resolution OLED Tru-Finder",
         "rating": 5,
+        "offfer":10,
         "cost": 94000
     },
     {
@@ -13,6 +14,7 @@
         "category": "sony",
         "details": "24.2MP APS-C Exmor CMOS Sensor=BIONZ X Image Processor=Real-Time Eye AF; Real-Time Tracking=XGA Tru-Finder 2.36m-Dot OLED EVF",
         "rating": 4.5,
+        "offfer":10,
         "cost": 93000
     },
     {
@@ -21,6 +23,7 @@
         "category": "sony",
         "details": "5-axis image stabilization=BIONZ X image processing engine=35 mm 24.3 MP 7 Exmor CMOS sensor=High-resolution OLED Tru-Finder",
         "rating": 5,
+        "offfer":15,
         "cost": 158000
     },
     {
@@ -29,6 +32,7 @@
         "category": "sony",
         "details": "42MP Full-Frame Exmor R BSI CMOS Sensor=399-Point AF System=BIONZ X Image Processor=UHD 4K30p Video with HLG",
         "rating": 4,
+        "offfer":3,
         "cost": 70000
     },
     {
@@ -37,6 +41,7 @@
         "category": "sony",
         "details": "5-axis image stabilization=BIONZ X image processing engine=35 mm 24.3 MP 7Exmor CMOS sensor=High-resolution OLED Tru-Finder",
         "rating": 3.5,
+        "offfer":4,
         "cost": 68000
     },
     {
