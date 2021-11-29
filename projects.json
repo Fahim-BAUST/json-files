@@ -1,9 +1,62 @@
-[{
-        "image": "https://www.startech.com.bd/image/cache/catalog/dslr-camera/sony/%20alpha-a6000/a6000-228x228.jpg",
-        "name": "Sony Alpha A6000",
-        "category": "sony",
-        "details": "24.3-megapixel APS-C image sensor=BIONZ X image processing engine=One-touch remote and sharing=High-resolution OLED Tru-Finder",
-        "rating": 5,
-        "offfer":10,
-        "cost": 94000
-    }]
+[
+    {
+        "image": "https://i.ibb.co/k4mrmKx/Screenshot-29.png",
+        "images": [
+            "https://i.ibb.co/k4mrmKx/Screenshot-29.png",
+            "https://i.ibb.co/2ShQ7gC/Screenshot-30.png",
+            "https://i.ibb.co/j37pYZq/Screenshot-31.png",
+            "https://i.ibb.co/XSYdnnH/Screenshot-32.png",
+            "https://i.ibb.co/Hz3LJN5/Screenshot-33.png",
+            "https://i.ibb.co/Y7t5DML/Screenshot-34.png",
+            "https://i.ibb.co/n8PKj0P/Screenshot-36.png",
+            "https://i.ibb.co/kK8ybBR/Screenshot-37.png",
+            "https://i.ibb.co/T10mYR1/Screenshot-38.png",
+            "https://i.ibb.co/jGmGFwX/Screenshot-39.png",
+            "https://i.ibb.co/ncZKb4p/Screenshot-40.png",
+            "https://i.ibb.co/khY47L9/Screenshot-41.png",
+            "https://i.ibb.co/ZGk4P7Z/Screenshot-42.png",
+            "https://i.ibb.co/pPmgLr3/Screenshot-43.png"
+        ],
+        "projectName": "Clear Pixel",
+        "details": "This is a niche website (single product category selling website). ● User section: - login, add to cart, manage cart, order item, manage orders, add a review, etc. ● Admin section:- login, make admin, view all orders, manage orders,add product, manage a product. Admin login: admin@gmail.com ||pass: adminadmin",
+        "technology": "React, React Router, Context API, Material-ui, Bootstrap, Node, Express, MongoDB, Firebase and some react animation library, etc.",
+        "live": "https://clear-pixel-update.web.app/",
+        "client": "https://github.com/Fahim-BAUST/Clear-pexel-client",
+        "server": "https://github.com/Fahim-BAUST/Clear-pexel-server"
+    },
+    {
+        "image": "https://i.ibb.co/zZ11M6k/Screenshot-45.png",
+        "images": [
+            "https://i.ibb.co/zZ11M6k/Screenshot-45.png",
+            "https://i.ibb.co/XSfgy3Y/Screenshot-46.png",
+            "https://i.ibb.co/3krSjmZ/Screenshot-47.png",
+            "https://i.ibb.co/LptpcgX/Screenshot-48.png",
+            "https://i.ibb.co/sPM4K0S/Screenshot-49.png",
+            "https://i.ibb.co/Nt5ndQ2/Screenshot-50.png",
+            "https://i.ibb.co/yXSZDSv/Screenshot-51.png",
+            "https://i.ibb.co/VxP1Cyn/Screenshot-52.png"
+        ],
+        "projectName": "Caring Crossings",
+        "details": "● This project is an online tourism booking system. ● users can add, see and delete their orders, and an admin can manage other things. and the user can’t get access without email verified.● Admin login: admin@gmail.com || pass: adminadmin",
+        "technology": "Node.js, MongoDB, Firebase, Express.js, react ,react-router-dom , material ui, react-bootstrap, CSS, font awesome",
+        "live": "https://caring-crossings-updated.web.app/",
+        "client": "https://github.com/Fahim-BAUST/tourism-client",
+        "server": "https://github.com/Fahim-BAUST/tourism-server"
+    },
+    {
+        "image": "https://i.ibb.co/X4Bv5w0/Screenshot-53.png",
+        "images": [
+            "https://i.ibb.co/X4Bv5w0/Screenshot-53.png",
+            "https://i.ibb.co/BKnX7tW/Screenshot-54.png",
+            "https://i.ibb.co/3hqngbq/Screenshot-55.png",
+            "https://i.ibb.co/7XVyhDp/Screenshot-56.png",
+            "https://i.ibb.co/vcsdGXF/Screenshot-57.png",
+            "https://i.ibb.co/KqzRwZD/Screenshot-58.png"
+        ],
+        "projectName": "CareForYou Clinic",
+        "details": "● This project is for a clinic or hospital ● User can see Clinics services, their team and doctors ● User Authentication",
+        "technology": "React , react-router , material ui, bootstrap, Firebase",
+        "live": "https://careforyou-clinic.web.app/",
+        "client": "https://github.com/Fahim-BAUST/react-router-firebase-auth-healthcare-wbsite"
+    }
+]
