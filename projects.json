@@ -1,6 +1,7 @@
 [
     {
         "image": "https://i.ibb.co/k4mrmKx/Screenshot-29.png",
+        "rating":5,
         "images": [
             "https://i.ibb.co/k4mrmKx/Screenshot-29.png",
             "https://i.ibb.co/2ShQ7gC/Screenshot-30.png",
@@ -26,6 +27,7 @@
     },
     {
         "image": "https://i.ibb.co/zZ11M6k/Screenshot-45.png",
+        "rating":4,
         "images": [
             "https://i.ibb.co/zZ11M6k/Screenshot-45.png",
             "https://i.ibb.co/XSfgy3Y/Screenshot-46.png",
@@ -45,6 +47,7 @@
     },
     {
         "image": "https://i.ibb.co/X4Bv5w0/Screenshot-53.png",
+        "rating":3,
         "images": [
             "https://i.ibb.co/X4Bv5w0/Screenshot-53.png",
             "https://i.ibb.co/BKnX7tW/Screenshot-54.png",
