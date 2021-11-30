@@ -20,7 +20,8 @@
             "https://i.ibb.co/Zxb85FC/Screenshot-61.png"
         ],
         "projectName": "Clear Pixel",
-        "details": "This is a niche website (single product category selling website). ● User section: - login, add to cart, manage cart, order item, manage orders, add a review, etc. ● Admin section:- login, make admin, view all orders, manage orders,add product, manage a product. Admin login: admin@gmail.com ||pass: adminadmin",
+        "shortDetails":"This is a niche website (single product category selling website).",
+        "details": "This is a niche website (single product category selling website).=User section: - login, add to cart, manage cart, order item, manage orders, add a review, etc. =Admin section:- login, make admin, view all orders, manage orders,add product, manage a product.= JWT token verify = Admin login: admin@gmail.com ||pass: adminadmin",
         "technology": "React, React Router, Context API, Material-ui, Bootstrap, Node, Express, MongoDB, Firebase and some react animation library, etc.",
         "live": "https://clear-pixel-update.web.app/",
         "client": "https://github.com/Fahim-BAUST/Clear-pexel-client",
@@ -34,7 +35,8 @@
             "https://i.ibb.co/ThHw7PM/Screenshot-62.png","https://i.ibb.co/kDx8JyL/Screenshot-46.png","https://i.ibb.co/jMT52tm/Screenshot-47.png","https://i.ibb.co/qLSz2rk/Screenshot-48.png","https://i.ibb.co/yQ5XzMj/Screenshot-49.png","https://i.ibb.co/MZ4bQR4/Screenshot-50.png","https://i.ibb.co/JsbzVZP/Screenshot-51.png","https://i.ibb.co/9HZMfkn/Screenshot-52.png"
         ],
         "projectName": "Caring Crossings",
-        "details": "● This project is an online tourism booking system. ● users can add, see and delete their orders, and an admin can manage other things. and the user can’t get access without email verified.● Admin login: admin@gmail.com || pass: adminadmin",
+        "shortDetails":"This project is an online tourism booking system.",
+        "details": "This project is an online tourism booking system.=users can add, see and delete their orders=and an admin can manage other things=and the user can’t get access without email verified.=Private Route= Email verificaton =Admin login: admin@gmail.com || pass: adminadmin",
         "technology": "Node.js, MongoDB, Firebase, Express.js, react ,react-router-dom , material ui, react-bootstrap, CSS, font awesome",
         "live": "https://caring-crossings-updated.web.app/",
         "client": "https://github.com/Fahim-BAUST/tourism-client",
@@ -42,7 +44,7 @@
     },
     {
         "id":3,
-        "image": "https://i.ibb.co/X4Bv5w0/Screenshot-53.png",
+        "image": "https://i.ibb.co/k4RmkSj/Screenshot-53.png",
         "rating":3,
         "images": [
             "https://i.ibb.co/k4RmkSj/Screenshot-53.png",
@@ -52,8 +54,9 @@
 "https://i.ibb.co/N9V22w3/Screenshot-57.png",
 "https://i.ibb.co/zZtw2Wp/Screenshot-58.png"
         ],
+        "shortDetails":"This project is for a clinic or hospital.",
         "projectName": "CareForYou Clinic",
-        "details": "● This project is for a clinic or hospital ● User can see Clinics services, their team and doctors ● User Authentication",
+        "details": "This project is for a clinic or hospital=User can see Clinics services, their team and doctors=User Authentication=private route=Only client site",
         "technology": "React , react-router , material ui, bootstrap, Firebase",
         "live": "https://careforyou-clinic.web.app/",
         "client": "https://github.com/Fahim-BAUST/react-router-firebase-auth-healthcare-wbsite"
