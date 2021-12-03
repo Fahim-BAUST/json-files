@@ -1,9 +1,10 @@
 [
     {
         "id":1,
-        "image": "https://i.ibb.co/7SnL2CN/Screenshot-29.png",
+        "image": "https://i.ibb.co/80rcw5B/all-devices-black.png",
         "rating":5,
         "images": [
+            "https://i.ibb.co/80rcw5B/all-devices-black.png",
             "https://i.ibb.co/7SnL2CN/Screenshot-29.png",
             "https://i.ibb.co/FDY5sRr/Screenshot-30.png",
             "https://i.ibb.co/sy6T14v/Screenshot-31.png",
