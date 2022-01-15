@@ -62,5 +62,34 @@
         "technology": "React , react-router , material ui, bootstrap, Firebase",
         "live": "https://careforyou-clinic.web.app/",
         "client": "https://github.com/Fahim-BAUST/react-router-firebase-auth-healthcare-wbsite"
+    },
+    {
+        "id":4,
+        "image": "https://i.ibb.co/80rcw5B/all-devices-black.png",
+        "rating":5,
+        "images": [
+            "https://i.ibb.co/80rcw5B/all-devices-black.png",
+            "https://i.ibb.co/7SnL2CN/Screenshot-29.png",
+            "https://i.ibb.co/FDY5sRr/Screenshot-30.png",
+            "https://i.ibb.co/sy6T14v/Screenshot-31.png",
+            "https://i.ibb.co/cQntspj/Screenshot-32.png",
+            "https://i.ibb.co/gZbfS8B/Screenshot-33.png",
+            "https://i.ibb.co/Tr6c3B3/Screenshot-34.png",
+            "https://i.ibb.co/jMYR88T/Screenshot-36.png",
+            "https://i.ibb.co/SPtH2C2/Screenshot-38.png",
+            "https://i.ibb.co/n8691c2/Screenshot-39.png",
+            "https://i.ibb.co/VSyZvqs/Screenshot-40.png",
+            "https://i.ibb.co/NV6HG3v/Screenshot-41.png",
+            "https://i.ibb.co/0sW4rz9/Screenshot-59.png",
+            "https://i.ibb.co/NsZVkPW/Screenshot-60.png",
+            "https://i.ibb.co/Zxb85FC/Screenshot-61.png"
+        ],
+        "projectName": "Clear Pixel Android",
+        "shortDetails":"This is a niche app (single product category selling app).",
+        "details": "This is a niche website (single product category selling website).=User section: - login, add to cart, manage cart, order item, manage orders, add a review, etc. =Admin section:- login, make admin, view all orders, manage orders,add product, manage a product.= JWT token verify = Admin login: admin@gmail.com ||pass: adminadmin",
+        "technology": "React Native, React native Router, Context API, Node, Express, MongoDB, Firebase , native base and some react plugins, etc.",
+        "live": "https://drive.google.com/file/d/1I6mCMAuaItdB3ZbeAKCeH05aDJ1t9P92/view",
+        "client": "https://github.com/Fahim-BAUST/clear-Pixel-React-Native",
+        "server": "https://github.com/Fahim-BAUST/Clear-pexel-server"
     }
 ]
